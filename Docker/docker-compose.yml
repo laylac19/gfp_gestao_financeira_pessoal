@@ -3,5 +3,5 @@ services:
   cssp-postgresql:
     extends:
       file: postgresql.yml
-      service: cssp-postgresql
-    container_name: cssp-postgresql
+      service: gfp-postgresql
+    container_name: gfp-postgresql

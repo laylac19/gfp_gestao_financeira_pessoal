@@ -1,6 +1,6 @@
 version: '2'
 services:
-  cssp-postgresql:
+  gfp-postgresqll:
     extends:
       file: postgresql.yml
       service: gfp-postgresql

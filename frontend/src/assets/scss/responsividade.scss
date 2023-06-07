@@ -1,0 +1,20 @@
+@media screen and (min-width: 0px) {
+  .sm\:div-test {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .md\:div-test {
+    width: 60%;
+  }
+}
+@media screen and (min-width: 992px) {
+  .lg\:div-test {
+    width: 30%;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .xl\:div-test {
+    width: 15%;
+  }
+}
